@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sreqr.iml" filepath="$PROJECT_DIR$/.idea/modules/sreqr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sreqr_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sreqr_main.iml" group="sreqr" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sreqr_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sreqr_test.iml" group="sreqr" />
+    </modules>
+  </component>
+</project>
